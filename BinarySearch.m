@@ -1,6 +1,6 @@
 //
 //  BinarySearch.m
-//  oser
+//  Algorithm
 //
 //  Created by A2zinoth on 2016/12/1.
 //
